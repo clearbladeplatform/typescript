@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,typescript",
+    "logging_enabled": "false",
+    "name": "typescriptSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "typescriptSmokeTest.js"
+}
