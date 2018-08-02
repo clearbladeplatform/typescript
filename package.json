@@ -130,5 +130,6 @@
     "test": "jake runtests-parallel light=false"
   },
   "typings": "./lib/typescript.d.ts",
-  "version": "2.9.2"
+  "version": "2.9.2",
+  "image": "https://i.imgur.com/qopbk66.png"
 }
